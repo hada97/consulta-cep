@@ -20,5 +20,5 @@ public class CepResultDTO {
     private String gia;
     private String ddd;
     private String siafi;
-    
+
 }
