@@ -1,10 +1,9 @@
-# Consulta-cep
+# CONSULTA CEP
 
 ## 💻 Sobre o Projeto
 
-Esta é uma aplicação que consome uma Api e retorna dados de ceps de todo Brasil em json.
+Esta é uma aplicação que consome uma [API](https://viacep.com.br/) e retorna os dados de cep Json.
 
-[Veja como ficou!]()
 
 ## ⚙️ Funcionalidades
 
@@ -47,6 +46,11 @@ Para começar a utilizar este projeto, siga as etapas abaixo:
     ```
 4. Inicie o app:
     ```bash
-    java -jar target/consulta-cep.jar
+    java -jar target/consumo-api-0.0.1-SNAPSHOT.jar)
+
+    ```
+5. Acesse através do endereço abaixo, digite o CEP e Execute:
+    ```bash
+    http://localhost:8080/swagger-ui/index.html
 
     ```
