@@ -9,7 +9,7 @@ Esta é uma aplicação que consome uma [API](https://viacep.com.br/) e retorna 
 
 
 A aplicação as seguintes funcionalidades:
-- **Consullta de CEP**:
+- **Consulta de CEP**:
 
 
 ## 🛠 Tecnologias
