@@ -8,7 +8,7 @@ Esta é uma aplicação que consome uma [API](https://viacep.com.br/) e retorna 
 ## ⚙️ Funcionalidades
 
 
-A aplicação as seguintes funcionalidades:
+A aplicação possui as seguintes funcionalidades:
 - **Consulta de CEP**:
 
 
