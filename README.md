@@ -2,14 +2,14 @@
 
 ## 💻 Sobre o Projeto
 
-Esta é uma aplicação que consome uma [API](https://viacep.com.br/) e retorna os dados de cep Json.
+Esta é uma aplicação que consome uma [API](https://viacep.com.br/) e retorna os dados de cep em Json.
 
 
 ## ⚙️ Funcionalidades
 
 
 A aplicação as seguintes funcionalidades:
-- **Busca de CEP**:
+- **Consullta de CEP**:
 
 
 ## 🛠 Tecnologias
